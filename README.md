@@ -9,6 +9,6 @@
 
 ---
 
-<p align="center"> The first assignment for COMP 6970 - Mobile App Development at Auburn University.
+<p align="center"> The first assignment for COMP 6970 - Mobile App Development at Auburn University. NavApp is a sensor-recording app I hope to develop for use in pedestrian navigation data collection.
     <br> 
 </p>
